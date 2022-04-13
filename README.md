@@ -7,4 +7,11 @@ The theoritical corpus is competed by a coding session. In this session, I compa
 
 The dataset used is available in Kaggle and known as the "Pima Diabete dataset".
 
-A PubMed search will allow you to get some background about the story : https://pubmed.ncbi.nlm.nih.gov/?term=pima+diabetes&sort=date
+A PubMed search will allow you to get some background about the story : 
+
+  https://pubmed.ncbi.nlm.nih.gov/?term=pima+diabetes&sort=date
+
+Link to the recoirded IVADO presentation :
+
+  https://youtu.be/ZIjU4kUkXfo
+
