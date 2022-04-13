@@ -11,7 +11,7 @@ A PubMed search will allow you to get some background about the story :
 
   https://pubmed.ncbi.nlm.nih.gov/?term=pima+diabetes&sort=date
 
-Link to the recoirded IVADO presentation :
+Link to the recorded IVADO presentation :
 
   https://youtu.be/ZIjU4kUkXfo
 
